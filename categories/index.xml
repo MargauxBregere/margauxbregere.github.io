@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Margaux Brégère</title>
-    <link>https://example.org/categories/</link>
+    <link>https://margauxbregere.github.io/categories/</link>
     <description>Recent content in Categories on Margaux Brégère</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>margaux.bregere@gmail.com (Margaux Brégère)</managingEditor>
-    <webMaster>margaux.bregere@gmail.com (Margaux Brégère)</webMaster><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>margaux.bregere@gmail.com (Margaux Brégère)</webMaster><atom:link href="https://margauxbregere.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
