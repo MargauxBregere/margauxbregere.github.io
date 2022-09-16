@@ -10,11 +10,11 @@
     <webMaster>margaux.bregere@gmail.com (Margaux Brégère)</webMaster>
     <lastBuildDate>Fri, 02 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://margauxbregere.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bio</title>
-      <link>https://margauxbregere.github.io/2022/09/bio/</link>
+      <title>About</title>
+      <link>https://margauxbregere.github.io/2022/09/about/</link>
       <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
       <author>margaux.bregere@gmail.com (Margaux Brégère)</author>
-      <guid>https://margauxbregere.github.io/2022/09/bio/</guid>
+      <guid>https://margauxbregere.github.io/2022/09/about/</guid>
       <description>&lt;p&gt;I am a research engineer at EDF Lab Paris Saclay in the Optimization SImulation RIsks and Statistics (OSIRIS) department.&lt;/p&gt;</description>
     </item>
     
