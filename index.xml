@@ -15,7 +15,7 @@
       <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
       <author>margaux.bregere@gmail.com (Margaux Brégère)</author>
       <guid>https://margauxbregere.github.io/2022/09/about/</guid>
-      <description>&lt;p&gt;I am associate professor (PAST) at the  &lt;a href=&#34;https://www.lpsm.paris&#34;&gt;Laboratoire de Probabilités, Statistique et Modélisation&lt;/a&gt; (LPSM) at Sorbonne Université and a research engineer at EDF Lab Paris Saclay in the Optimization SImulation RIsks and Statistics (OSIRIS) department.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I am associate professor (PAST) at the &lt;a href=&#34;https://www.lpsm.paris&#34;&gt;Laboratoire de Probabilités, Statistique et Modélisation&lt;/a&gt; (LPSM) of Sorbonne Université and a research engineer at EDF Lab Paris Saclay in the Optimization SImulation RIsks and Statistics (OSIRIS) department.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -28,12 +28,29 @@
     </item>
     
     <item>
-      <title>Teaching</title>
-      <link>https://margauxbregere.github.io/2022/08/teaching/</link>
+      <title>Teaching &amp; Supervision</title>
+      <link>https://margauxbregere.github.io/2022/08/teaching-supervision/</link>
       <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
       <author>margaux.bregere@gmail.com (Margaux Brégère)</author>
-      <guid>https://margauxbregere.github.io/2022/08/teaching/</guid>
-      <description>&lt;p&gt;Course list and materials (if you find any typos or errors, please do not hesitate to report them to me).&lt;/p&gt;</description>
+      <guid>https://margauxbregere.github.io/2022/08/teaching-supervision/</guid>
+      <description>&lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
+&lt;h3 id=&#34;phd&#34;&gt;PhD&lt;/h3&gt;
+&lt;p&gt;I am thrilled to be co-supervising the PhD theses of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://biancammoreno.github.io/&#34;&gt;Bianca Marin Moreno&lt;/a&gt; -  Mean field control and reinforcement learning for demand side management&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ninadrobac.github.io/&#34;&gt;Nina Drobac&lt;/a&gt; - Online signatures for multivariate time series forecasting&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A big well done to my former student &lt;a href=&#34;https://juliekeisler.github.io/&#34;&gt;Julie Keisler&lt;/a&gt; who defended her thesis &lt;em&gt;Automated Deep Learning: algorithms and software for energy sustainability&lt;/em&gt; on 24 January 2025.&lt;/p&gt;
+&lt;h3 id=&#34;interships&#34;&gt;Interships&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/keshav-das-4772a8253/&#34;&gt;Keshav Das&lt;/a&gt; with &lt;a href=&#34;https://www.linkedin.com/in/amaury-durand-78735a110/&#34;&gt;Amaury Durand&lt;/a&gt; and &lt;a href=&#34;https://juliekeisler.github.io/&#34;&gt;Julie Keisler&lt;/a&gt; - AutoML Algorithms for Online Generalized Additive Model Selection: Application to Electricity Demand Forecasting&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://3gaspo.github.io&#34;&gt;Gaspard Berthelier&lt;/a&gt; - Explainability of electricity demand forecasting models: a Shapley value approach for positive component decomposition&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=vLpZJu0AAAAJ&amp;amp;hl=fr&#34;&gt;Thomas Le Corre&lt;/a&gt; with Nadia Oudjane and &lt;a href=&#34;https://www.di.ens.fr/~busic/&#34;&gt;Ana Bušić&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/lucile-terras-46b40415a/&#34;&gt;Lucile Terras&lt;/a&gt; with Hui Yan - Bandit algorithms for
+hyper-parameter optimization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;teaching&#34;&gt;Teaching&lt;/h2&gt;
+&lt;p&gt;Course list and materials (if you find any typos or errors, please do not hesitate to report them to me).&lt;/p&gt;</description>
     </item>
     
     <item>
